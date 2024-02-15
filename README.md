@@ -5,7 +5,7 @@ A network infrastructure for drone remote identification allowing access to live
 
 All Rights Reserved
 
-Copyright (c) 2024 WH Intellectual Properties, LLC. All rights reserved.
+Copyright © 2024 WH Intellectual Properties, LLC. All rights reserved.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
