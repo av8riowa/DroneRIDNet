@@ -2,7 +2,7 @@ All Rights Reserved
 
 Copyright © 2024 WH Intellectual Properties, LLC. All rights reserved.
 
-Created by Techcable
+Created by Open Source Contributors.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
